@@ -1,4 +1,5 @@
 
+TEXT BLARG
 
 +++++ +++               Set Cell #0 to 8
 asdfghjkl;;;;;;;;asdfghjkl;
